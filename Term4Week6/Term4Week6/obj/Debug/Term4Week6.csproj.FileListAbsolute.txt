@@ -1,0 +1,7 @@
+C:\Users\31683\source\repos\Term4Week6\Term4Week6\obj\Debug\Term4Week6.csprojAssemblyReference.cache
+C:\Users\31683\source\repos\Term4Week6\Term4Week6\obj\Debug\Term4Week6.csproj.CoreCompileInputs.cache
+C:\Users\31683\source\repos\Term4Week6\Term4Week6\bin\Debug\Term4Week6.exe.config
+C:\Users\31683\source\repos\Term4Week6\Term4Week6\bin\Debug\Term4Week6.exe
+C:\Users\31683\source\repos\Term4Week6\Term4Week6\bin\Debug\Term4Week6.pdb
+C:\Users\31683\source\repos\Term4Week6\Term4Week6\obj\Debug\Term4Week6.exe
+C:\Users\31683\source\repos\Term4Week6\Term4Week6\obj\Debug\Term4Week6.pdb
