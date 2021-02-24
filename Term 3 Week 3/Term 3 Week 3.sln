@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t3w3 assignment 1", "Term 3 Week 3\t3w3 assignment 1.csproj", "{45CD4726-662D-4006-9CD0-AB30FE921135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t3w3 assignment 2", "t3w3 assignment 2\t3w3 assignment 2.csproj", "{01D40BD7-0245-4071-B9E1-A24779DE0D7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45CD4726-662D-4006-9CD0-AB30FE921135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CD4726-662D-4006-9CD0-AB30FE921135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CD4726-662D-4006-9CD0-AB30FE921135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CD4726-662D-4006-9CD0-AB30FE921135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01D40BD7-0245-4071-B9E1-A24779DE0D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D40BD7-0245-4071-B9E1-A24779DE0D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D40BD7-0245-4071-B9E1-A24779DE0D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D40BD7-0245-4071-B9E1-A24779DE0D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FBBA466-F521-49AE-891F-ADDD09CAA737}
+	EndGlobalSection
+EndGlobal
