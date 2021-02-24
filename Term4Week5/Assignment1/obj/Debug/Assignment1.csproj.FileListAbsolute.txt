@@ -1,0 +1,7 @@
+C:\Users\31683\source\repos\Term4Week5\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\31683\source\repos\Term4Week5\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\31683\source\repos\Term4Week5\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\31683\source\repos\Term4Week5\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\31683\source\repos\Term4Week5\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\31683\source\repos\Term4Week5\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\31683\source\repos\Term4Week5\Assignment1\obj\Debug\Assignment1.pdb
