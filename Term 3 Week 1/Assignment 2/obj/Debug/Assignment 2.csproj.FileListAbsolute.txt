@@ -1,0 +1,6 @@
+C:\Users\31683\source\repos\Term 3 Week 1\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\31683\source\repos\Term 3 Week 1\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\31683\source\repos\Term 3 Week 1\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\31683\source\repos\Term 3 Week 1\Assignment 2\obj\Debug\Assignment 2.csprojAssemblyReference.cache
+C:\Users\31683\source\repos\Term 3 Week 1\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\31683\source\repos\Term 3 Week 1\Assignment 2\obj\Debug\Assignment 2.pdb
