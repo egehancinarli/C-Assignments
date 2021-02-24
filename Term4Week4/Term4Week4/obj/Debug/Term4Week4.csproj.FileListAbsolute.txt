@@ -1,0 +1,11 @@
+C:\Users\31683\source\repos\Term4Week4\Term4Week4\bin\Debug\Term4Week4.exe.config
+C:\Users\31683\source\repos\Term4Week4\Term4Week4\bin\Debug\Term4Week4.exe
+C:\Users\31683\source\repos\Term4Week4\Term4Week4\bin\Debug\Term4Week4.pdb
+C:\Users\31683\source\repos\Term4Week4\Term4Week4\obj\Debug\Term4Week4.csprojAssemblyReference.cache
+C:\Users\31683\source\repos\Term4Week4\Term4Week4\obj\Debug\Term4Week4.Properties.Resources.resources
+C:\Users\31683\source\repos\Term4Week4\Term4Week4\obj\Debug\Term4Week4.csproj.GenerateResource.cache
+C:\Users\31683\source\repos\Term4Week4\Term4Week4\obj\Debug\Term4Week4.csproj.CoreCompileInputs.cache
+C:\Users\31683\source\repos\Term4Week4\Term4Week4\obj\Debug\Term4Week4.exe
+C:\Users\31683\source\repos\Term4Week4\Term4Week4\obj\Debug\Term4Week4.pdb
+C:\Users\31683\source\repos\Term4Week4\Term4Week4\obj\Debug\Term4Week4.TrainDisplay.resources
+C:\Users\31683\source\repos\Term4Week4\Term4Week4\obj\Debug\Term4Week4.ControlPanel.resources
